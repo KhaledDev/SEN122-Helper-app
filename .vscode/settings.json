@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "SEN122_Helper.sln"
+    "dotnet.defaultSolution": "SEN122-Helper-app.sln"
 }
