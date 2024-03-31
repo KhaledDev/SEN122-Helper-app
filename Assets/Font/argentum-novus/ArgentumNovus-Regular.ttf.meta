@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 32d29715ac64dd9418e80b1005628e44
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Argentum Novus
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 21b1f9f60a1a9ac44865bf0a7b13f261, type: 3}
+  - {fileID: 12800000, guid: 01e51c0876dc7874aadf9408ec3d6d4d, type: 3}
+  - {fileID: 12800000, guid: c1342f666bfcc2548aa1610c6720af25, type: 3}
+  - {fileID: 12800000, guid: 20b113ec58f46d748aa2eb8b7059159f, type: 3}
+  - {fileID: 12800000, guid: 51e7eec63b1444740b3c95b95b4cbabc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
